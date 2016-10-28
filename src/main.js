@@ -12,5 +12,9 @@ function helloFrance(){
   //say hello to France
   console.log("Hello France");
 
+function helloItaly(){
+  //say hello to italy
+  console.log("Hello Italy");
+
 }
 
