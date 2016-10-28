@@ -1,13 +1,16 @@
 function helloWorld(){
-  printf("Hello World\n");
+  //say hello to the word
+  System.out.println("Hello World");
 }
 
 function helloKitty(){
-  printf("Hello Kitty\n");
+  //say hello to kitty
+  System.out.println("Hello Kitty);
 }
 
 function helloFrance(){
-  printf("Hello France\n");
+  //say hello to france
+  System.out.println("Hello France");
 
 }
 
