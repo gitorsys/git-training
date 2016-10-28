@@ -8,3 +8,6 @@ Type these commands in repository root folder.
 
 * ln -s ../../scripts/pre-commit.sh .git/hooks/pre-commit
 * ln -s ../../scripts/dingo_push.sh .git/hooks/pre-push
+
+
+This is a modification to be reported in local repo
