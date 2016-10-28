@@ -7,6 +7,7 @@ DINGO=`expr $CSEC % 2`
 
 if [ "$DINGO" = "0" ]
 then
+  echo " euh... Non! Pas envie!"
   exit 1
 fi
 
